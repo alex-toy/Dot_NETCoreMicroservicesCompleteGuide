@@ -20,27 +20,8 @@ Add-Migration AddProductToDb
 Update-Database
 ```
 
-### Deployment
+### Create Storage Account
 
-1. Run *Articles.API* microservice **locally**
-- Run :
-```
-docker start articles-mongo
-```
-- In *appsettings.Development.json*, set : "ConnectionString" : "mongodb://localhost:27017"
-- Hit **Articles.API**
-
-<img src="/pictures/article_swagger.png" title="article swagger"  width="800">
-
-2. Run *Articles.API* microservice **containerized**
-- In *appsettings.Development.json*, set : "ConnectionString" : "mongodb://articlemongodb:27017"
-- Hit **Docker Compose**
-
-3. Run *Articles.API* microservice **docker compose**
-```
-docker-compose -f .\docker-compose.yml -f .\docker-compose.override.yml down
-docker-compose -f .\docker-compose.yml -f .\docker-compose.override.yml up -d
-```
-- go to *Articles.API* : http://localhost:8000/swagger/index.html
-
-<img src="/pictures/article_swagger_docker.png" title="article swagger_docker"  width="800">
+<img src="/pictures/create_storage_account_basics.png" title="create storage account basics"  width="500">
+<img src="/pictures/azure_storage_explorer.png" title="azure storage explorer"  width="500">
+<img src="/pictures/container.png" title="container"  width="500">
