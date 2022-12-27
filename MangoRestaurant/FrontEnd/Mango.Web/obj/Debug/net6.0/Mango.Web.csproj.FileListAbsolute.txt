@@ -24,3 +24,5 @@ C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\
 C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\Mango.Web\obj\Debug\net6.0\Mango.Web.pdb
 C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\Mango.Web\obj\Debug\net6.0\Mango.Web.genruntimeconfig.cache
 C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\Mango.Web\obj\Debug\net6.0\ref\Mango.Web.dll
+C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\Mango.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\source\Csharp\Dot_NETCoreMicroservicesCompleteGuide\MangoRestaurant\FrontEnd\Mango.Web\obj\Debug\net6.0\Mango.Web.csproj.CopyComplete

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UQiLHmHOjsb5PudCnQ5bIDY16bB3q0hM27fX0oZ9z5U=",
+  "Hash": "EcCgKXfDgQrnTqUV9fo6mIRapqCKCvHMp+M9o7tAo5Q=",
   "Source": "Mango.Web",
   "BasePath": "_content/Mango.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\wwwroot\\images\\mango.png",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\wwwroot\\",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": "images/mango.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mango.png"
+    },
+    {
+      "Identity": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\wwwroot\\images\\order.PNG",
+      "SourceId": "Mango.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\wwwroot\\",
+      "BasePath": "_content/Mango.Web",
+      "RelativePath": "images/order.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\order.PNG"
     },
     {
       "Identity": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\wwwroot\\js\\site.js",

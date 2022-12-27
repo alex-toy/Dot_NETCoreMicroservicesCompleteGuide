@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kZsWkVfsu6juR6A9D9uqpVqZbSEqDsZhD5DzwURgKGDDLMZm/XdEjyfQAHxWpc+oha5HPXWCBr1jZePwkUAnpA==",
+  "dgSpecHash": "U9T8HytGFgRr2uYAqiLNhDdqBbBr0usYj1U7PQ38/t3hJKo5/8Ba8EczofkzCR778q43sVOQkhk3Y3j2+Oo56A==",
   "success": true,
   "projectFilePath": "C:\\source\\Csharp\\Dot_NETCoreMicroservicesCompleteGuide\\MangoRestaurant\\FrontEnd\\Mango.Web\\Mango.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
