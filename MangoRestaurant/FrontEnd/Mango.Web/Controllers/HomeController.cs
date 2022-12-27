@@ -30,7 +30,7 @@ namespace Mango.Web.Controllers
             {
                 list = JsonConvert.DeserializeObject<List<ProductDto>>(Convert.ToString(response.Result));
             }
-            return View(list);
+            return View("Index", list);
         }
 
         [Authorize]
@@ -42,7 +42,7 @@ namespace Mango.Web.Controllers
             {
                 model = JsonConvert.DeserializeObject<ProductDto>(Convert.ToString(response.Result));
             }
-            return View(model);
+            return View("Details", model);
         }
 
         [HttpPost]
