@@ -25,3 +25,8 @@ Update-Database
 <img src="/pictures/create_storage_account_basics.png" title="create storage account basics"  width="500">
 <img src="/pictures/azure_storage_explorer.png" title="azure storage explorer"  width="500">
 <img src="/pictures/container.png" title="container"  width="800">
+
+
+
+
+https://github.com/bhrugen/Mango/
